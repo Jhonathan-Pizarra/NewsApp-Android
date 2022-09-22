@@ -11,6 +11,8 @@
    - El boton que lleva al link de la noticia no abre el navegador del telefono, sino que la muestra en la misma aplicación.
 
 - [AngularJS] - HTML enhanced for web apps!
+
+  [AngularJS]: <http://angularjs.org>
    
 # Observaciones
 
