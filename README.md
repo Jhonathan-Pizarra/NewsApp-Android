@@ -16,8 +16,8 @@ La versión Android sobre la que se desarolló es la 6.0; esto debido a su compa
 La applicación también se adapta a los dispositivos adecuadamente.
 Para emular la app se usó un dispositivo Pixel 3a XL API 23
 
-<img align="left" alt="Laravel" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/emulador.png" width="200" height="200" />
-<img align="right" alt="NextJS" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/detalle.png" width="200" height="190" />
+<img align="left" alt="Laravel" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/emulador.png" width="600" height="1200" />
+<img align="right" alt="NextJS" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/detalle.png" width="600" height="1200" />
 
 
 
