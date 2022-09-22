@@ -18,6 +18,7 @@
 - En algunas ocaciones, puede que no cargue la imágen/descripción/fecha debido a lo que en la API el campo llega como nulo o indefinido.
 - La app está firmada, con contraseña 123123.
 - El API Key para consumir las noticias lo eliminaré en los próximos días.
+- Finalmente, la APK se encuentra disponible ***[aqui]([https://nextjs.org/](https://www.dropbox.com/sh/qaknuwfoln7ua81/AADM3DsxV_A3-Z0YNUoD2z2Va?dl=0))***
 
 <img align="left" alt="Laravel" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/emulador.png" width="400" height="600" />
 <img align="right" alt="NextJS" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/detalle.png" width="550" height="500" />
