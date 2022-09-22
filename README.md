@@ -1,12 +1,26 @@
-# Noticias-App
-## Por
+## FEBO App de Noticias
+
 - Jonathan Pizarra
 
-## Instrucciones
+## Características
+- Se desarolló una aplicación en Android Studio utilizando el lenguaje de programación Java.
+- La aplicación muestra un portal de noticias. Puntualmente:
+   - Busca en un API de noticias
+   - Consume el servicio mencionado anteriormente y muestra la imagen, el titulo, la fecha y la fuente que publicó la noticia.
+   - Al presionar la noticia nos lleva a otra pantalla donde se visualiza la imagen, el titulo, la fecha, la fuenta que publico la noticia, el detalle o descripcion de la noticia y un botón que nos lleve al link de la noticia.
+   - El boton que lleva al link de la noticia no abre el navegador del telefono, sino que la muestra en la misma aplicación.
+   
+# Observaciones
 
-•	Se desarolló una aplicación en Android Studio utilizando el lenguaje de programación Java.
-•	La aplicación muestra un portal de noticias. Puntualmente:
-o	Busca en un API de noticias
-o	Consume el servicio mencionado anteriormente y muestra la imagen, el titulo, la fecha y la fuente que publicó la noticia.
-o	Al presionar la noticia nos lleva a otra pantalla donde se visualiza la imagen, el titulo, la fecha, la fuenta que publico la noticia, el detalle o descripcion de la noticia y un botón que nos lleve al link de la noticia.
-o	El boton que lleva al link de la noticia no abre el navegador del telefono, sino que la muestra en la misma aplicación.
+La versión Android sobre la que se desarolló es la 6.0; esto debido a su compatibilidad con el 92% de los dispositivos.
+La applicación también se adapta a los dispositivos adecuadamente.
+Para emular la app se usó un dispositivo Pixel 3a XL API 23
+
+<img align="left" alt="Laravel" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/emulador.png" width="200" height="200" />
+<img align="right" alt="NextJS" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/detalle.png" width="200" height="190" />
+
+
+Es todo cuánto puedo describir sobre la app. ¡Un excelente día!
+
+#Anexos
+![](https://github.com/Jhonathan-Pizarra/NewsApp-Android/blob/main/Imagenes/codigo.png?raw=true)
