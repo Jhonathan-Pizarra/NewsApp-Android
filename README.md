@@ -12,17 +12,15 @@
    
 # Observaciones
 
-La versión Android sobre la que se desarolló es la 6.0; esto debido a su compatibilidad con el 92% de los dispositivos.
-La applicación también se adapta a los dispositivos adecuadamente.
-Para emular la app se usó un dispositivo Pixel 3a XL API 23.
-En algunas ocaciones, puede que no cargue la imágen/descripción/fecha debido a lo que en la API el campo llega como nulo o indefinido.
-La app está firmada, con contraseña 123123.
-El API Key para consumir las noticias lo eliminaré en los próximos días.
+- La versión Android sobre la que se desarolló es la 6.0; esto debido a su compatibilidad con el 92% de los dispositivos.
+- La applicación también se adapta a los dispositivos adecuadamente.
+- Para emular la app se usó un dispositivo Pixel 3a XL API 23.
+- En algunas ocaciones, puede que no cargue la imágen/descripción/fecha debido a lo que en la API el campo llega como nulo o indefinido.
+- La app está firmada, con contraseña 123123.
+- El API Key para consumir las noticias lo eliminaré en los próximos días.
 
 <img align="left" alt="Laravel" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/emulador.png" width="400" height="600" />
 <img align="right" alt="NextJS" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/detalle.png" width="550" height="500" />
-
-
 
 
 # Anexos
