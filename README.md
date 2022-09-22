@@ -20,7 +20,7 @@ Para emular la app se usó un dispositivo Pixel 3a XL API 23
 <img align="right" alt="NextJS" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/NewsApp-Android/main/Imagenes/detalle.png" width="200" height="190" />
 
 
-Es todo cuánto puedo describir sobre la app. ¡Un excelente día!
 
-#Anexos
+
+# Anexos
 ![](https://github.com/Jhonathan-Pizarra/NewsApp-Android/blob/main/Imagenes/codigo.png?raw=true)
